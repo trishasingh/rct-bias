@@ -5,8 +5,8 @@ chosen in a non-random manner. This can bias the impact estimate if the RCT
 sample is not representative of the population of interest for which researchers make
 recommendations. If estimates vary across sites and the inclusion of sites in the sample
 is correlated with site-level treatment impacts, the estimate obtained on the sample will
-not be externally valid. Using a dataset from an already existing RCT, I model different
-situations in which researchers oversample sites that are convenient to implement the
+not be externally valid. Using a dataset from an already existing RCT, I model different situations
+ in which researchers oversample sites that are convenient to implement the
 treatment in and assess the external validity bias that arises from it. I compare this
 bias to a mathematical expression derived in the literature. I nd a very high external
 validity bias in samples that are conveniently selected. Additionally, I test a reweighting
