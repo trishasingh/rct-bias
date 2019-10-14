@@ -8,9 +8,9 @@ is correlated with site-level treatment impacts, the estimate obtained on the sa
 not be externally valid. Using a dataset from an already existing RCT, I model different situations
  in which researchers oversample sites that are convenient to implement the
 treatment in and assess the external validity bias that arises from it. I compare this
-bias to a mathematical expression derived in the literature. I nd a very high external
+bias to a mathematical expression derived in the literature. I find a very high external
 validity bias in samples that are conveniently selected. Additionally, I test a reweighting
-procedure that utilizes the inclusion probability of each site and nd that it generally
+procedure that utilizes the inclusion probability of each site and find that it generally
 reduces, but does not eliminate, external validity bias.
 
 This repo contains my [research paper](./estimating-external-validity-bias-rct.pdf)
